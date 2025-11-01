@@ -23,7 +23,7 @@ function App() {
       string,
       {
         location: [number, number];
-        size: number;
+        size: 500number;
       }
     >
   >(new Map());
