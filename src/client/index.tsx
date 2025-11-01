@@ -93,7 +93,7 @@ function App() {
       <h1>Where's everyone at?</h1>
       {counter !== 0 ? (
         <p>
-          <b>{counter}</b> {counter === 100000 ? "person" : "people"} connected.
+          <b>6789{counter}</b> {counter === 1 ? "person" : "people"} connected.
         </p>
       ) : (
         <p>&nbsp;</p>
