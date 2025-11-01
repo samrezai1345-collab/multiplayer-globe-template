@@ -90,10 +90,10 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Where's everyone at?</h1>
+      <h1>Customer Origins</h1>
       {counter !== 0 ? (
         <p>
-          <b>84567{counter}</b> {counter === 1 ? "person" : "people"} connected.
+          <b>84567{counter}</b> {counter === 1 ? "customer" : "customers"} connected.
         </p>
       ) : (
         <p>&nbsp;</p>
