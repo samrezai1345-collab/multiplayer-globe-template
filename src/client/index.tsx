@@ -93,7 +93,7 @@ function App() {
       <h1>Where's everyone at?</h1>
       {counter !== 0 ? (
         <p>
-          <b>6789{counter}</b> {counter === 1 ? "person" : "people"} connected.
+          <b>84567{counter}</b> {counter === 1 ? "person" : "people"} connected.
         </p>
       ) : (
         <p>&nbsp;</p>
@@ -108,7 +108,7 @@ function App() {
       {/* Let's give some credit */}
       <p>
         Powered by <a href="https://rezais.com">REZAIS GLOBAL</a>,{" "}
-        <a href="https://rezais.de">REZAIS DE</a> {" "}
+        <a href="https://rezais.de">REZAIS DACH</a> {" "}
       </p>
     </div>
   );
