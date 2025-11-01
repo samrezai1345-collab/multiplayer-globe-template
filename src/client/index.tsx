@@ -108,7 +108,7 @@ function App() {
       {/* Let's give some credit */}
       <p>
         Powered by <a href="https://rezais.com">REZAIS GLOBAL</a>,{" "}
-        <a href="https://rezais.de">REZAIS DE</a> and{" "}
+        <a href="https://rezais.de">REZAIS DE</a> {" "}
       </p>
     </div>
   );
